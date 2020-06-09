@@ -1,1 +1,1 @@
-This Application is going to be the admin backend for the Family House mobile application.
+Development has been moved to https://github.com/pointparkuniversity/familyhouse
